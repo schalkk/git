@@ -2,3 +2,4 @@ This is a text file
 This files is now updated.
 Edit in VScode on WSL
 Edit this now using VI.
+New line on the new brach.
